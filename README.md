@@ -72,7 +72,7 @@ O aplicativo visa otimizar a gestão, reduzir erros e melhorar a eficiência ope
 - Fotografias e vídeos das reuniões e treinamentos.
 - Capturas de tela do protótipo e do aplicativo.
 - E-mails trocados durante o planejamento.
-- Link para o repositório do código: [https://github.com/seu-usuario/projeto-lanchonete](https://github.com/seu-usuario/projeto-lanchonete)
+- Link para o repositório do código: [[https://github.com/seu-usuario/projeto-lanchonete](https://github.com/seu-usuario/projeto-lanchonete)](https://github.com/montenegrows/Solu-o-Mobile-para-Gest-o-de-Vendas-e-Estoque-na-Lanchonete-Sabor-Cia)
 - Listas de presença assinadas.
 
 ---
